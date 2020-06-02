@@ -1,0 +1,100 @@
+body {
+  font-family: 'Karla', sans-serif;
+  margin: 0;
+  width: 1440px;
+}
+
+h1 {
+  color: #2ab2af;
+}
+
+h2 {
+  color: #c0df34;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+.top-head {
+  color: grey;
+  font-weight: normal;
+}
+
+.top-container {
+  margin: 0;
+  position: relative;
+  padding: 30px 50px 50px;
+  text-align: justify;
+  font-size: 2rem;
+}
+
+.left-block {
+  background-color: #2ab2af;
+  color: #e5eff5;
+  display: inline-block;
+  width: 720px;
+  height: 550px;
+  text-align: left;
+  font-size: 2rem;
+}
+
+.monthly {
+  padding: 50px;
+}
+
+.right-block {
+  background-color: #66dbd9;
+  color: #e5eff5;
+  display: inline-block;
+  width: 720px;
+  height: 550px;
+  position: absolute;
+  line-height: 1;
+  font-size: 2rem;
+}
+
+.why_us {
+  padding: 50px;
+}
+
+.dollar {
+  font-weight: bold;
+  font-size: 4rem;
+}
+
+.month {
+  position: relative;
+  bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.sign {
+  color: #eeeeee;
+  font-weight: bold;
+  text-align: center;
+  background-color: #c0df34;
+  display: inline-block;
+  width: 100%;
+  margin-top: 20px;
+  padding: 40px 0;
+  border-radius: 8px;
+}
+
+ul {
+  color: #e5eff5;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #3e52a3;
+}
